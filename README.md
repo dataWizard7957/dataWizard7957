@@ -19,6 +19,7 @@ I build:
 AI-powered personalized news retrieval system using **LLM query expansion, web search, credibility filtering, and summarization**.
 
 Pipeline:
+
 User Query  
 ↓  
 LLM Query Expansion  
@@ -40,7 +41,8 @@ Tech Stack:
 ## 🧠 Medical RAG Assistant
 Retrieval-Augmented Generation system for answering medical queries using domain documents.
 
-Pipeline:  
+Pipeline: 
+
 Medical Documents  
 ↓  
 Text Chunking  
@@ -72,6 +74,7 @@ Tech Stack:
 Machine learning model predicting turbine failures using **40+ sensor variables**.
 
 Pipeline:
+
 Sensor Data  
 ↓  
 Data Cleaning  
@@ -99,6 +102,7 @@ Tech Stack:
 Computer vision model detecting helmet usage using **VGG16 transfer learning**.
 
 Pipeline:
+
 Image Dataset  
 ↓  
 Data Augmentation  
