@@ -115,14 +115,6 @@ Streamlit
 
 ## 📊 GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataWizard7957&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dataWizard7957&show_icons=true&theme=default&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dataWizard7957&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/sakeena-p-759916243/
-Email: sakeenapatel7@gmail.com
