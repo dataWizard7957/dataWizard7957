@@ -19,8 +19,15 @@ I build:
 AI-powered personalized news retrieval system using **LLM query expansion, web search, credibility filtering, and summarization**.
 
 Pipeline:
-
-User Query → Query Expansion → Web Search → Credibility Filtering → Summarization
+User Query  
+↓  
+LLM Query Expansion  
+↓  
+DuckDuckGo Search  
+↓  
+Credibility Filtering  
+↓  
+News Summarization
 
 Tech Stack:
 - Python
@@ -34,7 +41,17 @@ Tech Stack:
 Retrieval-Augmented Generation system for answering medical queries using domain documents.
 
 Pipeline:  
-Medical PDF → Chunking → Embeddings → Vector DB → Retrieval → LLM Answer
+Medical Documents  
+↓  
+Text Chunking  
+↓  
+Embeddings (Sentence Transformers)  
+↓  
+Vector Database (Chroma)  
+↓  
+Semantic Retrieval  
+↓  
+LLM Answer Generation
 
 Features:
 - PDF ingestion and chunking
@@ -54,6 +71,17 @@ Tech Stack:
 ## ⚙️ Turbine Failure Detection
 Machine learning model predicting turbine failures using **40+ sensor variables**.
 
+Pipeline:
+Sensor Data  
+↓  
+Data Cleaning  
+↓  
+Feature Scaling  
+↓  
+Neural Network Model  
+↓  
+Failure Prediction
+
 Key Results:
 - Improved minority-class recall **32% → 92%**
 - Achieved **95% overall accuracy**
@@ -69,6 +97,17 @@ Tech Stack:
 
 ## 🪖 Helmet Detection System
 Computer vision model detecting helmet usage using **VGG16 transfer learning**.
+
+Pipeline:
+Image Dataset  
+↓  
+Data Augmentation  
+↓  
+Transfer Learning (VGG16)  
+↓  
+CNN Training  
+↓  
+Helmet Classification
 
 Key Results:
 - **96.8% validation accuracy**
@@ -115,8 +154,6 @@ Streamlit
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dataWizard7957&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dataWizard7957&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dataWizard7957&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dataWizard7957&layout=compact)
