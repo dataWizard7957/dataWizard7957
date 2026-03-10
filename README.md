@@ -41,7 +41,7 @@ Tech Stack:
 ## 🧠 Medical RAG Assistant
 Retrieval-Augmented Generation system for answering medical queries using domain documents.
 
-Pipeline: 
+### Pipeline: 
 
 Medical Documents  
 ↓  
@@ -55,13 +55,13 @@ Semantic Retrieval
 ↓  
 LLM Answer Generation
 
-Features:
+### Features:
 - PDF ingestion and chunking
 - Embeddings and semantic search
 - Vector database retrieval
 - LLM-based answer generation
 
-Tech Stack:
+### Tech Stack:
 - Python
 - LangChain
 - ChromaDB
@@ -73,7 +73,7 @@ Tech Stack:
 ## ⚙️ Turbine Failure Detection
 Machine learning model predicting turbine failures using **40+ sensor variables**.
 
-Pipeline:
+### Pipeline:
 
 Sensor Data  
 ↓  
@@ -85,12 +85,12 @@ Neural Network Model
 ↓  
 Failure Prediction
 
-Key Results:
+### Key Results:
 - Improved minority-class recall **32% → 92%**
 - Achieved **95% overall accuracy**
 - Addressed severe class imbalance
 
-Tech Stack:
+### Tech Stack:
 - Python
 - Scikit-learn
 - Neural Networks
@@ -101,7 +101,7 @@ Tech Stack:
 ## 🪖 Helmet Detection System
 Computer vision model detecting helmet usage using **VGG16 transfer learning**.
 
-Pipeline:
+### Pipeline:
 
 Image Dataset  
 ↓  
@@ -113,11 +113,11 @@ CNN Training
 ↓  
 Helmet Classification
 
-Key Results:
+### Key Results:
 - **96.8% validation accuracy**
 - Implemented data augmentation and transfer learning
 
-Tech Stack:
+### Tech Stack:
 - Python
 - TensorFlow
 - CNN
