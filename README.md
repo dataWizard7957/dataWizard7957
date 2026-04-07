@@ -15,13 +15,17 @@ I build:
 
 # 🚀 Featured Projects
 
-## 📰 NewsFindr — LLM-Powered News Retrieval
-AI-powered personalized news retrieval system using **LLM query expansion, web search, credibility filtering, and summarization**.
+## 📰 NewsFindr — LLM-Powered News Agent
+AI-powered personalized news retrieval system using LLM-based agent, query expansion, web search, credibility filtering, and summarization.
 
-Pipeline:
+### Pipeline:
 
-User Query  
-↓  
+User Email + Query
+↓
+Fetch User Interests (SQL)
+↓
+AI Agent (Tool Calling)
+↓
 LLM Query Expansion  
 ↓  
 DuckDuckGo Search  
@@ -30,7 +34,7 @@ Credibility Filtering
 ↓  
 News Summarization
 
-Tech Stack:
+### Tech Stack:
 - Python
 - Groq LLM API
 - DuckDuckGo Search
