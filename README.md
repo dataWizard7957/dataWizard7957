@@ -1,4 +1,4 @@
-# Hi, I'm Sakeena Patel 👋
+# Hi, I'm Sakeena Patel
 ![Python](https://img.shields.io/badge/Python-AI-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![LLM](https://img.shields.io/badge/LLM-RAG-green)
