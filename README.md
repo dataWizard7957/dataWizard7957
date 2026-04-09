@@ -19,7 +19,7 @@ I build:
 AI-powered personalized news retrieval system using LLM-based agent, query expansion, web search, credibility filtering, and summarization.
 
 ### Pipeline:
-
+```text
 User Email + Query
 ↓
 Fetch User Interests (SQL)
@@ -33,7 +33,7 @@ DuckDuckGo Search
 Credibility Filtering  
 ↓  
 News Summarization
-
+```
 ### Tech Stack:
 - Python
 - Groq LLM API
