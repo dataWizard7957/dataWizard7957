@@ -7,57 +7,62 @@
 
 I build:
 - Retrieval-Augmented Generation (RAG) systems
-- AI-powered information retrieval pipelines
+- LLM Applications & AI Agents
 - Machine learning prediction models
 - AI backend services
+
+---
+
+## 🚀 About Me
+- 🧠 Building production-ready RAG and AI agent systems
+- 🔍 Interested in search, retrieval, and knowledge systems
+- ⚡ Creating scalable AI APIs with FastAPI
+- 📚 Exploring advanced LLM architectures and agentic workflows
+- 🌱 Continuously learning and experimenting with emerging AI technologies
+
+---
+
+## 🛠 Technical Skills
+
+- 🐍 **Languages:** Python • SQL
+
+- 🤖 **ML/DL:** Scikit-Learn • TensorFlow • PyTorch • Feature Engineering • Classification • Regression
+
+- 🧠 **LLMs & RAG:** LangChain • ChromaDB • Sentence Transformers • Embeddings • Prompt Engineering • Query Expansion • AI Agents
+
+- ⚙️ **Backend & Tools:** FastAPI • Streamlit • Git • Docker
 
 ---
 
 # 🚀 Featured Projects
 
 ## 📰 NewsFindr — LLM-Powered News Agent
-AI-powered personalized news retrieval system using LLM-based agent, query expansion, web search, credibility filtering, and summarization.
+An intelligent news retrieval platform that delivers personalized news summaries based on user interests.
 
-### Pipeline:
-```text
-User Email + Query
-↓
-Fetch User Interests (SQL)
-↓
-AI Agent (Tool Calling)
-↓
-LLM Query Expansion  
-↓  
-DuckDuckGo Search  
-↓  
-Credibility Filtering  
-↓  
-News Summarization
-```
+### What It Does
+
+✔ Retrieves user preferences from a database
+
+✔ Expands queries using LLMs
+
+✔ Searches the web for relevant news
+
+✔ Filters low-credibility sources
+
+✔ Generates concise AI-powered summaries
+
+### Impact
+- Automated personalized news discovery
+- Improved relevance through query expansion
+- Reduced information overload through summarization
+
 ### Tech Stack:
-- Python
-- Groq LLM API
-- DuckDuckGo Search
-- SQL
+Python • Groq • SQL • DuckDuckGo Search • LLM Agents
 
 ---
 
 ## 🧠 Medical RAG Assistant
-Retrieval-Augmented Generation system for answering medical queries using domain documents.
-
-### Pipeline: 
-
-Medical Documents  
-↓  
-Text Chunking  
-↓  
-Embeddings (Sentence Transformers)  
-↓  
-Vector Database (Chroma)  
-↓  
-Semantic Retrieval  
-↓  
-LLM Answer Generation
+A Retrieval-Augmented Generation system designed to answer medical questions using trusted domain documents.
 
 ### Features:
 - PDF ingestion and chunking
@@ -66,97 +71,47 @@ LLM Answer Generation
 - LLM-based answer generation
 
 ### Tech Stack:
-- Python
-- LangChain
-- ChromaDB
-- Sentence Transformers
-- LLaMA / Mistral
+Python • LangChain • ChromaDB • Sentence Transformers • LLaMA
 
 ---
 
-## ⚙️ Turbine Failure Detection
-Machine learning model predicting turbine failures using **40+ sensor variables**.
+## ⚙️ Turbine Failure Detection:
+Machine learning system for predictive maintenance using industrial sensor data.
 
-### Pipeline:
-
-Sensor Data  
-↓  
-Data Cleaning  
-↓  
-Feature Scaling  
-↓  
-Neural Network Model  
-↓  
-Failure Prediction
-
-### Key Results:
-- Improved minority-class recall **32% → 92%**
-- Achieved **95% overall accuracy**
-- Addressed severe class imbalance
+### Achievements
+- 📈Improved minority-class recall **32% → 92%**
+- 📈Achieved **95% overall accuracy**
+- 📈Addressed severe class imbalance
 
 ### Tech Stack:
-- Python
-- Scikit-learn
-- Neural Networks
-- Pandas / NumPy
+Python • Neural Networks • Scikit-Learn • Pandas
 
 ---
 
 ## 🪖 Helmet Detection System
-Computer vision model detecting helmet usage using **VGG16 transfer learning**.
+Computer vision system for workplace safety monitoring
 
-### Pipeline:
+### Achievements
 
-Image Dataset  
-↓  
-Data Augmentation  
-↓  
-Transfer Learning (VGG16)  
-↓  
-CNN Training  
-↓  
-Helmet Classification
+🎯 Validation Accuracy: 96.8%
 
-### Key Results:
-- **96.8% validation accuracy**
-- Implemented data augmentation and transfer learning
+🎯 Transfer Learning using VGG16
+
+🎯 Data Augmentation Pipeline
 
 ### Tech Stack:
-- Python
-- TensorFlow
-- CNN
-- VGG16
+
+TensorFlow • CNN • VGG16 • Python
 
 ---
 
-# 🧠 Technical Skills
-
-### Programming
-Python, SQL
-
-### Machine Learning
-Scikit-learn  
-Feature Engineering  
-Model Evaluation  
-Classification / Regression
-
-### Deep Learning
-TensorFlow  
-PyTorch  
-CNNs  
-Transfer Learning
-
-### LLM Systems
-RAG Pipelines  
-LangChain  
-Embeddings  
-Prompt Engineering  
-Query Expansion
-
-### Tools
-FastAPI  
-Git  
-Streamlit  
+🌱 Currently Exploring
+- Agentic AI Systems
+- Multi-Agent Workflows
+- Advanced RAG Architectures
+- Evaluation Frameworks for LLMs
+- AI Safety, Alignment & Responsible AI
+- Production AI Infrastructure
 
 ---
 
@@ -169,7 +124,7 @@ Streamlit
 
 ---
 
-## Open Source Contributions
+## 🤝Open Source Contributions
 
-I also contribute to open source using another account:  
-https://github.com/sakeena-7878
+I also contribute to open source through:  
+👉 https://github.com/sakeena-7878
