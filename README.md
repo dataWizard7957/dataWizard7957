@@ -166,6 +166,8 @@ Streamlit
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dataWizard7957&layout=compact)
 
+![Metrics](https://metrics.lecoq.io/dataWizard7957)
+
 
 ---
 
