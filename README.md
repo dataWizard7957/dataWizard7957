@@ -115,14 +115,6 @@ TensorFlow • CNN • VGG16 • Python
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dataWizard7957&show_icons=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dataWizard7957&layout=compact)
-
-
----
 
 ## 🤝Open Source Contributions
 
