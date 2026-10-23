@@ -14,23 +14,23 @@ I build:
 ---
 
 ## 🚀 About Me
-- 🧠 Building production-ready RAG and AI agent systems
-- 🔍 Interested in search, retrieval, and knowledge systems
-- ⚡ Creating scalable AI APIs with FastAPI
-- 📚 Exploring advanced LLM architectures and agentic workflows
-- 🌱 Continuously learning and experimenting with emerging AI technologies
+-  Building production-ready RAG and AI agent systems
+-  Interested in search, retrieval, and knowledge systems
+-  Creating scalable AI APIs with FastAPI
+-  Exploring advanced LLM architectures and agentic workflows
+-  Continuously learning and experimenting with emerging AI technologies
 
 ---
 
 ## 🛠 Technical Skills
 
-- 🐍 **Languages:** Python • SQL
+-  **Languages:** Python • SQL
 
-- 🤖 **ML/DL:** Scikit-Learn • TensorFlow • PyTorch • Feature Engineering • Classification • Regression
+-  **ML/DL:** Scikit-Learn • TensorFlow • PyTorch • Feature Engineering • Classification • Regression
 
-- 🧠 **LLMs & RAG:** LangChain • ChromaDB • Sentence Transformers • Embeddings • Prompt Engineering • Query Expansion • AI Agents
+-  **LLMs & RAG:** LangChain • ChromaDB • Sentence Transformers • Embeddings • Prompt Engineering • Query Expansion • AI Agents
 
-- ⚙️ **Backend & Tools:** FastAPI • Streamlit • Git • Docker
+-  **Backend & Tools:** FastAPI • Streamlit • Git • Docker
 
 ---
 
@@ -79,9 +79,9 @@ Python • LangChain • ChromaDB • Sentence Transformers • LLaMA
 Machine learning system for predictive maintenance using industrial sensor data.
 
 ### Achievements
-- 📈Improved minority-class recall **32% → 92%**
-- 📈Achieved **95% overall accuracy**
-- 📈Addressed severe class imbalance
+- Improved minority-class recall **32% → 92%**
+- Achieved **95% overall accuracy**
+- Addressed severe class imbalance
 
 ### Tech Stack:
 Python • Neural Networks • Scikit-Learn • Pandas
@@ -93,11 +93,11 @@ Computer vision system for workplace safety monitoring
 
 ### Achievements
 
-🎯 Validation Accuracy: 96.8%
+ Validation Accuracy: 96.8%
 
-🎯 Transfer Learning using VGG16
+ Transfer Learning using VGG16
 
-🎯 Data Augmentation Pipeline
+ Data Augmentation Pipeline
 
 ### Tech Stack:
 
