@@ -93,11 +93,11 @@ Computer vision system for workplace safety monitoring
 
 ### Achievements
 
- Validation Accuracy: 96.8%
+ - Validation Accuracy: 96.8%
 
- Transfer Learning using VGG16
+ - Transfer Learning using VGG16
 
- Data Augmentation Pipeline
+- Data Augmentation Pipeline
 
 ### Tech Stack:
 
